@@ -20,7 +20,7 @@ explore and learn everything Data. I love helping peopl
 <a href="https://www.facebook.com/renack.casera"><img align="left" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Blessing | Facebook"/></a>
 
 <a href="https://www.instagram.com/blessing_aggyei_kyem"><img align="left" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Blessing | Instagram"></a>
-<a href="https://dev.to/blessing988"><img align="left" src="https://user-images.githubusercontent.com/59713495/155003333-cc9a9e63-250e-4f48-ba7f-aeb8fae3e7db.png" alt="Blessing | DEV" height="30px"></a>
+<a href="https://dev.to/blessing988"><img align="left" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blessing | DEV" height="29px"></a>
 
 
 
