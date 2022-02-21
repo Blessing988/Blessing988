@@ -30,6 +30,32 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 
 </div>
 
+- 🫂I am open to any guide or assistance as I dive more into my Data Science Journey.
+
+## 🔭 I'm currently working on
+
+- A Breast Cancer Detection Project Using Deep learning
+
+## 🌱 I'm currently learning
+
+- >Convolutional Neural Networks
+
+## 💼 Technical Skills
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=000316)
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=MATLAB&color=a86832)
+![](https://img.shields.io/badge/Code-Octave-informational?style=flat&logo=octave&color=00FFFF)
+
+
+
+
+
+
 
 
 
