@@ -8,12 +8,12 @@ Hi there, I'm <a href="https://dev.to/blessing988" target="_blank" rel="noreferr
 
 >
 <h2 align="center">
-I'm a Data Science Enthusiast 👨‍💻 and Civil Enginnering Student👷‍♂️ who is currently exploring into Deep 
-learning using Computer Vision.
+I'm a Data Science Enthusiast 👨‍💻 and Civil Engineering Student👷‍♂️ who is currently exploring into 
+Computer Vision using Deep learning.
 </h2> 
 
-I am very passionate about AI and loves to 
-explore and learn everything Data. I love helping peopl
+I am very passionate about AI🅰️ℹ️ and loves to 
+explore and learn everything Data. I love teaching and helping people learn anything Tech. 
 
 ### 🤝 Connect with me:
 
@@ -21,11 +21,11 @@ explore and learn everything Data. I love helping peopl
 
 <a href="https://www.facebook.com/renack.casera"><img align="left" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Blessing | Facebook"/></a>
 
-<a href="https://twitter.com/KyemAgyei"><img align="left" src="https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Blessing | Twitter"></a>
+<a href="https://twitter.com/KyemAgyei"><img align="bottom" src="https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Blessing | Twitter"></a>
 
-<a href="https://www.instagram.com/blessing_aggyei_kyem"><img align="left" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Blessing | Instagram"></a>
+<a href="https://www.instagram.com/blessing_aggyei_kyem"><img align="bottom" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Blessing | Instagram"></a>
 
-<a href="https://dev.to/blessing988"><img align="left" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blessing | DEV" height="29px"></a>
+<a href="https://dev.to/blessing988"><img align="bottom" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blessing | DEV" height="29px"></a>
 
 
 
