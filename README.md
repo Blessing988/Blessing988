@@ -15,7 +15,7 @@ explore and learn everything Data.
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/blessing-agyei-kyem-b25"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blessing | LinkedIn" width="21px" height="50px"/></a>
+<a href="https://www.linkedin.com/in/blessing-agyei-kyem-b25"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blessing | LinkedIn" width="21px" height="25px"/></a>
 
 
 
