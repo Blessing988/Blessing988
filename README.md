@@ -7,11 +7,11 @@ Hi there, I'm <a href="https://dev.to/blessing988" target="_blank" rel="noreferr
 </h3>
 
 <h2 align="center">
-I'm a Data Science Enthusiast 💻, Photographer 📸, and Designer 🎨!
+I'm a Data Science Enthusiast 👨‍💻, Civil Enginnering Student👷‍♂️, and 
 </h2> 
 
 I am currently a Civil engineering student who is very passionate about AI and loves to 
-explore and learn everything Data. 
+explore and learn everything Data. I love helping peopl
 
 ### 🤝 Connect with me:
 
@@ -20,6 +20,7 @@ explore and learn everything Data.
 <a href="https://www.facebook.com/renack.casera"><img align="left" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Blessing | Facebook"/></a>
 
 <a href="https://www.instagram.com/blessing_aggyei_kyem"><img align="left" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Blessing | Instagram"></a>
+<a href="https://dev.to/blessing988"><img align="left" src="https://user-images.githubusercontent.com/59713495/155003333-cc9a9e63-250e-4f48-ba7f-aeb8fae3e7db.png" alt="Blessing | DEV"></a>
 
 
 
