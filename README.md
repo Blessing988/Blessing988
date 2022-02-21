@@ -24,9 +24,9 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 
 <a href="https://twitter.com/KyemAgyei"><img align="left" src="https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Blessing | Twitter"></a>
 
-<a href="https://www.instagram.com/blessing_aggyei_kyem"><img align="bottom" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Blessing | Instagram"></a>
+<a href="https://www.instagram.com/blessing_aggyei_kyem"><img align="left" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Blessing | Instagram"></a>
 
-<a href="https://dev.to/blessing988"><img align="bottom" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blessing | DEV" height="29px"></a>
+<a href="https://dev.to/blessing988"><img align="left" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blessing | DEV" height="29px"></a>
 
 </div>
 
