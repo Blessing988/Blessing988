@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img width="1358" height="335" src="https://user-images.githubusercontent.com/59713495/154967919-df3d8ddc-6947-415f-bfca-7b62e2bb0a45.png" alt="my banner">
+<img width="1358" height="300" src="https://user-images.githubusercontent.com/59713495/154967919-df3d8ddc-6947-415f-bfca-7b62e2bb0a45.png" alt="my banner">
 
 </p>
