@@ -21,7 +21,7 @@ explore and learn everything Data. I love helping peopl
 
 <a href="https://www.facebook.com/renack.casera"><img align="left" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Blessing | Facebook"/></a>
 
-<a href="https://img.shields.io/badge/@KyemAgyei-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"><img align="left" src="https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Blessing | Twitter"></a>
+<a href="https://img.shields.io/badge/KyemAgyei-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"><img align="left" src="https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Blessing | Twitter"></a>
 
 <a href="https://www.instagram.com/blessing_aggyei_kyem"><img align="left" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Blessing | Instagram"></a>
 
