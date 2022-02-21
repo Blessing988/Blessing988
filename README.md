@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Blessing988/Blessing988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+<img width="200" height="200" src="https://user-images.githubusercontent.com/59713495/154967919-df3d8ddc-6947-415f-bfca-7b62e2bb0a45.png" alt="my banner">
+
+</p>
