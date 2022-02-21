@@ -6,8 +6,10 @@
 Hi there, I'm <a href="https://dev.to/blessing988" target="_blank" rel="noreferrer">Blessing</a> 👋
 </h3>
 
+>
 <h2 align="center">
-I'm a Data Science Enthusiast 👨‍💻, Civil Enginnering Student👷‍♂️, and 
+I'm a Data Science Enthusiast 👨‍💻, Civil Enginnering Student👷‍♂️ who is currently exploring into Deep 
+learning using Computer Vision
 </h2> 
 
 I am currently a Civil engineering student who is very passionate about AI and loves to 
