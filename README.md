@@ -19,7 +19,7 @@ explore and learn everything Data.
 
 <a href="https://www.facebook.com/renack.casera"><img align="left" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Blessing | Facebook"/></a>
 
-<a href="https://www.instagram.com/blessing_aggyei_kyem"><img align="left" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Blessing | Instagram" width="21px"></a>
+<a href="https://www.instagram.com/blessing_aggyei_kyem"><img align="left" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Blessing | Instagram"></a>
 
 
 
