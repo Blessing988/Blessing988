@@ -42,7 +42,7 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 
 ## 🌱 I'm currently learning
 
-> - Convolutional Neural Networks
+> - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
 
 
 ## 💼 Technical Skills
