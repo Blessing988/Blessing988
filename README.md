@@ -31,9 +31,11 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 </div>
 </br>
 
+***
 
 >🫂I am open to any guidance or assistance as I dive more into my Data Science Journey.
 
+***
 ## 🔭 I'm currently working on
 
 - A Breast Cancer Detection Project Using Deep learning
