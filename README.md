@@ -77,7 +77,12 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 ![](https://img.shields.io/badge/Libraries-KERAS-informational?style=flat&logo=Keras&color=%23D00000)
 ![](https://img.shields.io/badge/Libraries-TENSORFLOW-informational?style=flat&logo=Tensorflow&color=%23FF6F00)
 
+
+
 ## 🌐 Online Courses Completed with Certifications
+
+
+>
 <div>
 <img src="https://user-images.githubusercontent.com/59713495/155153494-fc4b9127-97f1-4f75-85ce-9b1d2eb48b29.png" align="left" width="197.29" height="28">
 
@@ -87,6 +92,7 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 </div>
 </br>
 
