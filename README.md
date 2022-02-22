@@ -27,8 +27,10 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 <a href="https://www.instagram.com/blessing_aggyei_kyem"><img align="left" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Blessing | Instagram"></a>
 
 <a href="https://dev.to/blessing988"><img align="left" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blessing | DEV" height="29px"></a>
-
 </div>
+
+
+</br>
 
 - 🫂I am open to any guide or assistance as I dive more into my Data Science Journey.
 
@@ -40,7 +42,9 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 
 - >Convolutional Neural Networks
 
+
 ## 💼 Technical Skills
+***
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
@@ -50,6 +54,27 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=MATLAB&color=a86832)
 ![](https://img.shields.io/badge/Code-Octave-informational?style=flat&logo=octave&color=00FFFF)
+
+</br>
+
+![](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=microsoft-excel&color=217346)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-ANACONDA-informational?style=flat&logo=anaconda&color=2344A833)
+![](https://img.shields.io/badge/Tools-JUPYTER-informational?style=flat&logo=jupyter&color=a64f2d)
+
+</br>
+
+![](https://img.shields.io/badge/Libraries-NUMPY-informational?style=flat&logo=numpy&color=%23013243)
+![](https://img.shields.io/badge/Libraries-PANDAS-informational?style=flat&logo=pandas&color=%23150458)
+![](https://img.shields.io/badge/Libraries-MATPLOTLIB-yellowgreen)
+![](https://img.shields.io/badge/Libraries-Sklearn-informational?style=flat&logo=scikit-learn&color=%23F7931E)
+![](https://img.shields.io/badge/Libraries-PLOTLY-informational?style=flat&logo=plotly&color=%233F4F75)
+![](https://img.shields.io/badge/Libraries-SCIPY-informational?style=flat&logo=scipy&color=%230C55A5)
+![](https://img.shields.io/badge/Libraries-KERAS-informational?style=flat&logo=Keras&color=%23D00000)
+![](https://img.shields.io/badge/Libraries-TENSORFLOW-informational?style=flat&logo=Tensorflow&color=%23FF6F00)
+
+
 
 
 
