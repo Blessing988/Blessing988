@@ -82,7 +82,7 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 
 ***
 
-[![Blessing's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blessing988&show_icons=true&theme=onedark)](https://github.com/Blessing988/github-readme-stats)
+[![Blessing's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blessing988&show_icons=true&theme=tokyonight)](https://github.com/Blessing988/github-readme-stats)
 
 
 
