@@ -78,6 +78,13 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 ![](https://img.shields.io/badge/Libraries-TENSORFLOW-informational?style=flat&logo=Tensorflow&color=%23FF6F00)
 
 
+## 📈 GitHub Stats 
+
+***
+
+[![Blessing's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blessing988&show_icons=true&theme=onedark)](https://github.com/Blessing988/github-readme-stats)
+
+
 
 
 
