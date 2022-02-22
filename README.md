@@ -84,8 +84,12 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 
 
 >
+
+
 <div>
 <img src="https://user-images.githubusercontent.com/59713495/155153494-fc4b9127-97f1-4f75-85ce-9b1d2eb48b29.png" align="left" width="197.29" height="28">
+
+<img src="https://user-images.githubusercontent.com/59713495/155174271-667209c6-5141-49ba-965a-0ba522c798c2.png" align="left" width="197.29" height="28">
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
@@ -95,10 +99,13 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 </div>
-</br>
 
->
-- []
+- [Python: OOP: Four Pillars of 00P in Python 3 for Beginners](https://www.udemy.com/certificate/UC-d3f93ab5-3680-473f-abc2-6dc172166a8c/)
+- [Deep learning with Tensorflow 2](https://learn.365datascience.com/certificates/CC-AE8147DE17/)
+- [Neural Networks and Deep learning](https://www.coursera.org/account/accomplishments/verify/CBLCVHTSPFRA)
+- [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/4K6T6RBM75G2)
+- [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/DFDHBC7LEVZX)
+
 ## 📈 GitHub Stats 
 
 ***
