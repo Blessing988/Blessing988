@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://dev.to/blessing988" target="_blank" rel="noreferrer"><img width="1358" height="200" src="https://user-images.githubusercontent.com/59713495/154967919-df3d8ddc-6947-415f-bfca-7b62e2bb0a45.png" alt="my banner"></a>
+    <a href="https://dev.to/blessing988" target="_blank" rel="noreferrer"><img width="1358" height="100" src="https://user-images.githubusercontent.com/59713495/154967919-df3d8ddc-6947-415f-bfca-7b62e2bb0a45.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -29,6 +29,7 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 <a href="https://dev.to/blessing988"><img align="left" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blessing | DEV" height="29px"></a>
 </br>
 </div>
+</br>
 
 
 >🫂I am open to any guidance or assistance as I dive more into my Data Science Journey.
@@ -96,6 +97,8 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 </div>
 </br>
 
+>
+- []
 ## 📈 GitHub Stats 
 
 ***
