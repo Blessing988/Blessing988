@@ -31,7 +31,7 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 </div>
 
 
-- >🫂I am open to any guidance or assistance as I dive more into my Data Science Journey.
+>🫂I am open to any guidance or assistance as I dive more into my Data Science Journey.
 
 ## 🔭 I'm currently working on
 
@@ -39,12 +39,13 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 
 ## 🌱 I'm currently learning
 
-- >Convolutional Neural Networks
+> - Convolutional Neural Networks
 
 
 ## 💼 Technical Skills
 ***
 
+<!--- Code --->
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
@@ -56,14 +57,17 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 
 </br>
 
+<!--- Tools --->
 ![](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=microsoft-excel&color=217346)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-BITBUCKET-informational?style=flat&logo=bitbucket&color=%230047B3)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-ANACONDA-informational?style=flat&logo=anaconda&color=2344A833)
 ![](https://img.shields.io/badge/Tools-JUPYTER-informational?style=flat&logo=jupyter&color=a64f2d)
 
 </br>
 
+<!---Libraries--->
 ![](https://img.shields.io/badge/Libraries-NUMPY-informational?style=flat&logo=numpy&color=%23013243)
 ![](https://img.shields.io/badge/Libraries-PANDAS-informational?style=flat&logo=pandas&color=%23150458)
 ![](https://img.shields.io/badge/Libraries-MATPLOTLIB-yellowgreen)
