@@ -38,11 +38,11 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 ***
 ## 🔭 I'm currently working on
 
-- A Breast Cancer Detection Project Using Deep learning
+- [my assignment which involves using pytorch for Insurance cost prediction](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans/assignment/assignment-2-train-your-first-model) 
 
 ## 🌱 I'm currently learning
 
-> - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+> - [Deep learning with Pytorch](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans)
 
 
 ## 💼 Technical Skills
