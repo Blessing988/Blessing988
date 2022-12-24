@@ -43,7 +43,7 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 ## 🌱 I'm currently learning
 
 > - [Deep learning with Pytorch](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans)
-
+> - [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/week/1) 
 
 ## 💼 Technical Skills
 ***
@@ -57,6 +57,7 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=MATLAB&color=a86832)
 ![](https://img.shields.io/badge/Code-Octave-informational?style=flat&logo=octave&color=00FFFF)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white)
 
 </br>
 
@@ -89,9 +90,9 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 
 
 <div>
-<img src="https://user-images.githubusercontent.com/59713495/155153494-fc4b9127-97f1-4f75-85ce-9b1d2eb48b29.png" align="left" width="197.29" height="28">
+<img style="padding-right: 2px; padding-bottom: 5px" src="https://user-images.githubusercontent.com/59713495/155153494-fc4b9127-97f1-4f75-85ce-9b1d2eb48b29.png" align="left" width="197.29" height="28">
 
-<img src="https://user-images.githubusercontent.com/59713495/155174271-667209c6-5141-49ba-965a-0ba522c798c2.png" align="left" width="197.29" height="28">
+<img style="padding-right: 3px" src="https://user-images.githubusercontent.com/59713495/155174271-667209c6-5141-49ba-965a-0ba522c798c2.png" align="left" width="197.29" height="28">
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
