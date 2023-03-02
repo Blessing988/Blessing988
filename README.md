@@ -9,7 +9,7 @@ Hi there, I'm <a href="https://dev.to/blessing988" target="_blank" rel="noreferr
 >
 <h2 align="center">
 I'm a Data Science Enthusiast 👨‍💻 and Civil Engineering Student👷‍♂️ who is currently exploring into 
-NLP using Deep learning.
+Computer Vision and NLP using Deep learning.
 </h2> 
 
 I am very passionate about AI🅰️ℹ️ and loves to 
