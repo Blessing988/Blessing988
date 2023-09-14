@@ -38,7 +38,7 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 ***
 ## 🔭 I'm currently working on
 
-- [my assignment which involves using pytorch for Insurance cost prediction](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans/assignment/assignment-2-train-your-first-model) 
+ - Mapping video and IMU driving data to a Joint Embedding Space using Meta's ImageBind
 
 ## 🌱 I'm currently learning
 
