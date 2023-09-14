@@ -38,7 +38,7 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 ***
 ## 🔭 I'm currently working on
 
- - Mapping video and IMU driving data to a Joint Embedding Space using Meta's ImageBind
+- Mapping video and IMU driving data to a Joint Embedding Space using Meta's ImageBind
 
 ## 🌱 I'm currently learning
 
