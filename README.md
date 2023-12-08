@@ -116,3 +116,6 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 [![Blessing's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blessing988&show_icons=true&theme=tokyonight)](https://github.com/Blessing988/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blessing988&theme=gotham)](https://github.com/Blessing988/Blessing988)
+
+![ezgif com-video-to-gif](https://github.com/Blessing988/Blessing988/assets/59713495/4c812614-adfc-4a2f-babe-f88f663a66a2)
+
