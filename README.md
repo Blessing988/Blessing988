@@ -8,11 +8,11 @@ Hi there, I'm <a href="https://dev.to/blessing988" target="_blank" rel="noreferr
 
 >
 <h2 align="center">
-I'm a Data Science Enthusiast 👨‍💻 and Civil Engineering Graduate 👷‍♂️ who is currently exploring into 
-Computer Vision and NLP using Deep learning.
+I'm a Machine learning engineer👨‍💻 and a Civil Engineering Graduate 👷‍♂️ who is currently exploring  
+the intersection of Computer Vision and NLP. I'm working on Multi-modal models for computer vision and their applications in Transportation. 
 </h2> 
 
-I am very passionate about AI🅰️ℹ️ and loves to 
+I am very passionate about AI🅰️ℹ️ and love to 
 explore and learn everything Data. I love teaching and helping people learn anything Tech. 
 
 ### 🤝 Connect with me:
@@ -33,18 +33,19 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 
 ***
 
->🫂I am open to any guidance or assistance as I dive more into my Data Science Journey.
+>🫂I am open to guidance or assistance as I dive into my deep learning journey.
 
 ***
 ## 🔭 I'm currently working on
 
-- Mapping video and IMU driving data to a Joint Embedding Space using Meta's ImageBind
+- Prediction of Pavement Condition Index (PCI) directly from pavement images
 
+  
 ## 🌱 I'm currently learning
 
-> - [Deep learning with Pytorch](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans)
-> - [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/week/1) 
-> 
+> - [Advanced Computer Vision by University of Central Florida - Spring 2024](https://www.youtube.com/playlist?list=PLd3hlSJsX_IlSr0ua4v8WQez)
+> - [Recent Advances on Foundation Modelsby University of Waterloo - Winter 2024](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
+
 ## 💼 Technical Skills
 ***
 
