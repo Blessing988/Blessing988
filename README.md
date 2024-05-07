@@ -7,10 +7,10 @@ Hi there, I'm <a href="https://dev.to/blessing988" target="_blank" rel="noreferr
 </h3>
 
 >
-<h2 align="center">
+<h3 align="center">
 I'm a Machine learning engineer👨‍💻 and a Civil Engineering Graduate 👷‍♂️ who is currently exploring  
 the intersection of Computer Vision and NLP. I'm working on Multi-modal models for computer vision and their applications in Transportation. 
-</h2> 
+</h3> 
 
 I am very passionate about AI🅰️ℹ️ and love to 
 explore and learn everything Data. I love teaching and helping people learn anything Tech. 
