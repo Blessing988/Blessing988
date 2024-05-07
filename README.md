@@ -44,7 +44,7 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 
 > - [Deep learning with Pytorch](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans)
 > - [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/week/1) 
-
+> 
 ## 💼 Technical Skills
 ***
 
@@ -80,8 +80,7 @@ explore and learn everything Data. I love teaching and helping people learn anyt
 ![](https://img.shields.io/badge/Libraries-SCIPY-informational?style=flat&logo=scipy&color=%230C55A5)
 ![](https://img.shields.io/badge/Libraries-KERAS-informational?style=flat&logo=Keras&color=%23D00000)
 ![](https://img.shields.io/badge/Libraries-TENSORFLOW-informational?style=flat&logo=Tensorflow&color=%23FF6F00)
-
-
+![](https://img.shields.io/badge/Libraries-PYTORCH-informational?style=flat&logo=Pytorch&color=%23EE4C2C)
 
 ## 🌐 Online Courses Completed with Certifications
 
