@@ -8,7 +8,7 @@ Hi there, I'm <a href="https://dev.to/blessing988" target="_blank" rel="noreferr
 
 >
 <h3 align="center">
-I'm a Machine learning engineer👨‍💻 and a Civil Engineering Graduate 👷‍♂️ who is currently exploring  
+I'm a Machine learning engineer👨‍💻 and a PhD Student at North Dakota State University 👷‍♂️ who is currently exploring  
 the intersection of Computer Vision and NLP. I'm working on Multi-modal models for computer vision and their applications in Transportation. 
 </h3> 
 
