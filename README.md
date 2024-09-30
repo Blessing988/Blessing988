@@ -1,6 +1,6 @@
 
 <h3 align="center">
-Hi there, I'm <a href="https://dev.to/blessing988" target="_blank" rel="noreferrer">Blessing</a> 👋
+Hi there, I'm <a href="https://blessing-agyei-kyem.github.io/" target="_blank" rel="noreferrer">Blessing</a> 👋
 </h3>
 
 >
